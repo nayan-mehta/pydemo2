@@ -4,6 +4,10 @@ annasmnamnm
 sansmnsmansm
 xkanskankanans,a
 kanskansknsla
+<<<<<<< HEAD
 nsans,as,a
 ffhghghjhhjhj
 fggjhkhkjijlkkjg
+=======
+nsans,as,a
+>>>>>>> master
