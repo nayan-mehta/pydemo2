@@ -14,5 +14,13 @@ nsans,as,a
 ya we had done it yessssssss
 by manthan k rocks
 bb
+<<<<<<< HEAD
 my name is vijay this is for testing purpose
+=======
+<<<<<<< HEAD
+>>>>>>> master
 
+=======
+gthghjg
+git add
+>>>>>>> master
