@@ -14,4 +14,9 @@ nsans,as,a
 ya we had done it yessssssss
 by manthan k rocks
 bb
+<<<<<<< HEAD
 
+=======
+gthghjg
+git add
+>>>>>>> master
