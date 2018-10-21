@@ -1,0 +1,21 @@
+print("answer to question 05---------------------------------------------------")
+model=[20,50,10,30]
+price=[100,50,20,200]
+print("||Unsorted||")
+print("model")
+print(model)
+print("price")
+print(price)
+print("||sorted||")
+model.sort()
+price.sort()
+print("model")
+print(model)
+print("price")
+print(price)
+concatenated = model+price
+print("concatenated")
+print(concatenated)
+concatenated.sort()
+print("concatenated and sorted")
+print(concatenated)
