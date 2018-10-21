@@ -1,4 +1,4 @@
-#first assignment
+#1st assignment 
 print("hello my name is akash ")
 a= ("äcad")
 b= ("view")
