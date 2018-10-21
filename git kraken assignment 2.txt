@@ -1,0 +1,15 @@
+Git commands in git kraken
+
+git init  //to enter the git folder in the file we created which wil track on all the file which are inside the repositry.
+
+git add "the name of file" //add one or more file in the repositry.
+
+git commit -m"comment message"  //commit changes to head but not to the github.
+
+git status //give the status of file that we have to commit or already commited.
+
+git remote add origin "the url given in your repositry"  //to connect local repositry to a remote server.
+
+git diff //shows all the changes made in the file by us and not commited yet.
+
+git push -u origin master

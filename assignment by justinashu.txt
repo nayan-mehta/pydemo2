@@ -1,0 +1,10 @@
+assignment 2 by jstinashu
+git init-initialise of the empty folder
+git add-to track the my files
+git remote add origin-used for connecting the file with my git hub account
+git commit -file name(file is ready to send the github account)
+git push-push file into github account
+git pull-pull the document from github account
+git config user.email"it is wrtten in first time when computer does not idetify my github account
+git status-check the status of my file
+git diff-used for to check the diffrence in file before and after

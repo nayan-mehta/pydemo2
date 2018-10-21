@@ -1,0 +1,10 @@
+assignment bY annu singh156
+git init -for initialization the g
+git add- to track the my file
+git commit- to finialize the comments 
+git diff-to see the changes before and after
+git remote and origin- used to connecting the file with my git hub account
+git status-check the status of my file
+git pull- pull the document from github account
+git push- push file to the git hub account
+git remote and origin-used for connecting the file with my git hub account
