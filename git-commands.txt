@@ -1,0 +1,10 @@
+   commands					functions
+1. git init	 				initialise git
+2. git add <file name> 				to add the txt file or code file
+3. git commit -m"commit message" 		this is used to commit message
+4. git status					list the files you have changed and those you still need to add or commit
+5. git remote add origin<server>		connect to a remote repository
+6. git push origin master 			push-send changes to master branch of your remote repository.
+7. git config --global user.name"<USERNAME>"	this command is used to input the user details.
+8. git config --global user.email <user email>
+ 
